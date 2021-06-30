@@ -1,0 +1,11 @@
+Vincas-Krėvė     Literatūra      Romanas       1999 800   12
+Vincas-Krėvė     Literatūra      Romanas       2000 790   14 
+Adomas           AKnyga          Literatūra    2010 600   10.99
+Salomėja         Pasakos         Poezija       2010 800   30.99
+Petras           Kūriniai        Biografija    2010 600   10
+Adomas           AKnyga          Literatūra    2010 600   10.5
+Adomas           BKNyga          Literatūra    2020 900   15.2
+Vincas-Krėvė     Literatūra      Romanas       2000 790   18.10
+Adomas           CKnyga          Literatūra    2015 600   12.5 
+Salomėja         Pasakos         Poezija       2013 100   35.20 
+Petras           Kūriniai        Biografija    2011 600   10
